@@ -5,3 +5,7 @@
 ``` javascript
 var myVar="Hello, world!";
 ``` 
+```python
+i10numberplate="69DG19"
+print('69'in i10numberplate)
+```
